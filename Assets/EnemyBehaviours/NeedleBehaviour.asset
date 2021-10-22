@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b79a0a77f0e137f489076300d11756d8, type: 3}
+  m_Name: NeedleBehaviour
+  m_EditorClassIdentifier: 
+  movingPathPrefab:
+  - {fileID: 8918168314500230629, guid: c0a9104cffcc2224d9364d4ee8b0023c, type: 3}
+  - {fileID: 8531100070858748180, guid: 21157af0f3a2ac24990fa4e7c9b6cfa2, type: 3}
+  - {fileID: 4942481985327843794, guid: ae35bed0d8c9d8549ac234499d672f0a, type: 3}
+  - {fileID: 6380512145839505449, guid: a0eb42a09f8353346a7dc04737cbc136, type: 3}
+  - {fileID: 5286634873371024197, guid: 0228caa8cc770ec48a6f71cc48a867ca, type: 3}
+  - {fileID: 8544860591808106587, guid: c7686563ff307ec498cded3bebd90795, type: 3}
+  moveSpeed: 10
